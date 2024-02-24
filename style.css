@@ -281,11 +281,12 @@ section {
     font-weight: 400;
     margin-bottom: 10px;
     text-align: center;
+    margin-left: -10%;
 }
 
 .contact-content span {
     color: #353c47;
-    margin: 0 10px;
+    margin: 0 5px;
 }
 
 section,
